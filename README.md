@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Sungjin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=2e8b57&height=150&section=header&text=Kim%20Sungjin&fontSize=90)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimxungjin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimxungjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
